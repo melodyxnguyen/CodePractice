@@ -4,5 +4,5 @@ Review for Technical Interviews
 - Data Structures and Algothrims
 
 ## Main Languages:
-- Python
+- Python on marimo
 - Java
